@@ -2,7 +2,7 @@
 
 ## DataSet from here => https://universe.roboflow.com/roboflow-100/axial-mri
 
-### DataSet
+### Dataset
 ![configuration](result_img/configuration.png)
 
 ### regional proposal

@@ -3,14 +3,12 @@
 ## DataSet from here => https://universe.roboflow.com/roboflow-100/axial-mri
 
 ### Dataset
-![configuration](result_img/configuration.png)
+![configuration](images/dataset.png)
 
 ### regional proposal
-![retional proposal](result_img/Selective_search.png)
+![retional proposal](images/region_proposal.png)
 
-![regional proposal](result_img/region_proposal.png)
+![regional proposal](images/Selective_search.png)
 
-### inference before tuning
-![inference before tuning](result_img/inference_before_tuning.png)
-
-## 2023.02.20 ~ing
+### inference
+![inference before tuning](images/inference.png)
